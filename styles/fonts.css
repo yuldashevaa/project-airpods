@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'montserrat';
+    src: url(../fonts/Montserrat-VariableFont_wght.ttf);
+}
+
+@font-face {
+    font-family: 'montserrat-italic';
+    src: url(../fonts/Montserrat-Italic-VariableFont_wght.ttf);
+}
+
+@font-face {
+    font-family: 'prosto-one';
+    src: url(../fonts/ProstoOne-Regular.ttf);
+}
